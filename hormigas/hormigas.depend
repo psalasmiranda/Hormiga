@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1499093393 source:/home/info2017/Escritorio/hormigas/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

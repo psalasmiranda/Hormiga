@@ -1,0 +1,6 @@
+distancia#antofagasta#arica#cabrera#copiapo#coyhaique#
+antofagasta#0#709#1830#574#3074#
+arica#709#0#2521#1265#3765#
+cabera#1830#2521#0#1265#1250#
+copiapo#574#1265#1265#0#2510#
+coyhaique#3074#3765#1250#2510#0#
